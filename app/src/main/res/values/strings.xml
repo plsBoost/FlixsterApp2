@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Flixster</string>
+    <string name="toDDo">toDo</string>
+    <string name="todo">toDo</string>
 </resources>
